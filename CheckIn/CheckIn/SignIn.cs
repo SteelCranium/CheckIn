@@ -19,6 +19,8 @@ namespace CheckIn
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
+			SetContentView (Resource.Layout.SignIn);
+
 
 			// Create your application here
 		}
