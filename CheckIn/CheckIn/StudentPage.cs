@@ -20,6 +20,8 @@ namespace CheckIn
 		{
 			base.OnCreate (bundle);
 
+			SetContentView (Resource.Layout.Student_Page);
+
 			// Create your application here
 		}
 	}

@@ -21,9 +21,11 @@ namespace CheckIn
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
+			SetContentView (Resource.Layout.Sign_in);
+
 
 			// Set our view from the "main" layout resource
-			SetContentView (Resource.Layout.Sign_in);
+
 
 			// Get our button from the layout resource,
 			// and attach an event to it
