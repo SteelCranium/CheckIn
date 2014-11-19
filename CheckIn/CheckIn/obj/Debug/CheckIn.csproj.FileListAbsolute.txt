@@ -1,0 +1,15 @@
+U:\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
+U:\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.pdb
+U:\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll.mdb
+U:\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.CheckIn.apk
+U:\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.CheckIn-Signed.apk
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.dll
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.pdb
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\android\bin\CheckIn.CheckIn.apk
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\main.xml
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\values\strings.xml
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\icon.png
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_page.xml
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\student_page.xml
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\uploadflags.txt
