@@ -47,6 +47,9 @@ namespace CheckIn
 			// aapt resource value: 0x7f020000
 			public const int checkIn_logo = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int maxresdefault = 2130837505;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -60,23 +63,26 @@ namespace CheckIn
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050002
-			public const int email = 2131034114;
+			// aapt resource value: 0x7f050003
+			public const int email = 2131034115;
+			
+			// aapt resource value: 0x7f050001
+			public const int imageView1 = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int myButton = 2131034112;
 			
-			// aapt resource value: 0x7f050003
-			public const int password = 2131034115;
-			
 			// aapt resource value: 0x7f050004
-			public const int phone = 2131034116;
-			
-			// aapt resource value: 0x7f050001
-			public const int relativeLayout1 = 2131034113;
+			public const int password = 2131034116;
 			
 			// aapt resource value: 0x7f050005
-			public const int signin = 2131034117;
+			public const int phone = 2131034117;
+			
+			// aapt resource value: 0x7f050002
+			public const int relativeLayout1 = 2131034114;
+			
+			// aapt resource value: 0x7f050006
+			public const int signin = 2131034118;
 			
 			static Id()
 			{

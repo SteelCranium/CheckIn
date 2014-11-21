@@ -1,6 +1,6 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckIn\MainActivity.cs">
     <Files>
       <File FileName="CheckIn\MainActivity.cs" Line="1" Column="1" />
     </Files>
