@@ -16,13 +16,14 @@ namespace CheckIn
 	[Activity (Label = "SignIn")]			
 	public class SignIn : Activity
 	{
+		int count = 0;
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
-			SetContentView (Resource.Layout.Sign_in);
+			SetContentView (Resource.Layout.SignIn);
 
 
-<<<<<<< HEAD
+
 			// Set our view from the "main" layout resource
 
 
@@ -33,9 +34,7 @@ namespace CheckIn
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
-=======
 			// Create your application here
->>>>>>> parent of a48c3ed... da reel <><
 		}
 	}
 }

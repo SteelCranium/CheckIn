@@ -59,10 +59,13 @@
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
     <AndroidResource Include="Resources\values\Strings.xml" />
-    <AndroidResource Include="Resources\drawable\Icon.png" />
     <AndroidResource Include="Resources\layout\Admin_Page.axml" />
     <AndroidResource Include="Resources\layout\Student_Page.axml" />
     <AndroidResource Include="Resources\layout\SignIn.axml" />
+    <AndroidResource Include="Resources\drawable\checkIn_logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Resources\drawable\" />
+  </ItemGroup>
 </Project>
