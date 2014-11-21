@@ -14,3 +14,5 @@ U:\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\uploadflags.txt
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\signin.xml
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\checkin_logo.png
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\maxresdefault.jpg
+U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\checkin_small.png

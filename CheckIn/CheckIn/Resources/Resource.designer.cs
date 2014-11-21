@@ -48,7 +48,10 @@ namespace CheckIn
 			public const int checkIn_logo = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int maxresdefault = 2130837505;
+			public const int checkIn_small = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int maxresdefault = 2130837506;
 			
 			static Drawable()
 			{

@@ -9,7 +9,7 @@ using Android.OS;
 
 namespace CheckIn
 {
-	[Activity (Label = "CheckIn", MainLauncher = true, Icon = "@drawable/checkIn_logo")]
+	[Activity (Label = "CheckIn", MainLauncher = true, Icon = "@drawable/checkIn_small")]
 	public class MainActivity : Activity
 	{
 

@@ -64,6 +64,7 @@
     <AndroidResource Include="Resources\layout\SignIn.axml" />
     <AndroidResource Include="Resources\drawable\checkIn_logo.png" />
     <AndroidResource Include="Resources\drawable\maxresdefault.jpg" />
+    <AndroidResource Include="Resources\drawable\checkIn_small.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

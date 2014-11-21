@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="CheckIn.CheckIn">
   <uses-sdk android:minSdkVersion="19" />
-  <application android:label="CheckIn" android:icon="@drawable/checkin_logo" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:icon="@drawable/checkin_logo" android:label="CheckIn" android:name="checkin.MainActivity">
+  <application android:label="CheckIn" android:icon="@drawable/checkin_small" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/checkin_small" android:label="CheckIn" android:name="checkin.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
