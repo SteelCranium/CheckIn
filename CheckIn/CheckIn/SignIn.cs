@@ -19,23 +19,18 @@ namespace CheckIn
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
-			SetContentView (Resource.Layout.Sign_in);
+			SetContentView (Resource.Layout.SignIn);
 
-
-<<<<<<< HEAD
 			// Set our view from the "main" layout resource
 
 
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.myButton);
+			Button button = FindViewById<Button> (Resource.Id.signin);
 
 			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
 			};
-=======
 			// Create your application here
->>>>>>> parent of a48c3ed... da reel <><
 		}
 	}
 }
