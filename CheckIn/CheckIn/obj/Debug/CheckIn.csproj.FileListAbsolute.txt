@@ -34,3 +34,5 @@ C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\draw
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\checkin_small.png
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\uploadflags.txt
+C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\values\styles.xml
+C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\splash.png

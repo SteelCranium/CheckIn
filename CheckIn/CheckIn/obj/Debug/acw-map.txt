@@ -1,4 +1,4 @@
-CheckIn.MainActivity;checkin.MainActivity
 CheckIn.StudentPage;checkin.StudentPage
 CheckIn.AdminPage;checkin.AdminPage
 CheckIn.SignIn;checkin.SignIn
+CheckIn.SplashScreen;checkin.SplashScreen
