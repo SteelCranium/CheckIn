@@ -16,7 +16,6 @@ namespace CheckIn
 	[Activity (Label = "SignIn")]			
 	public class SignIn : Activity
 	{
-		int count = 0;
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
@@ -38,8 +37,18 @@ namespace CheckIn
 
 			button.Click += delegate {
 				//TODO- Code what the login button does
+				if(loginVerification()) {
+					StartActivity(typeof(StudentPage));
+					Finish();
+				}
+
+				// Create your application here
 			};
-			// Create your application here
+		}
+
+		public static bool loginVerification()
+		{
+			return true;
 		}
 	}
 }
