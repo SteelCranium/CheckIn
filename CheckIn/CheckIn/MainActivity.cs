@@ -19,6 +19,7 @@ namespace CheckIn
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
+			ImageView splash = FindViewById<ImageView> (Resource.Id.imageView1);
 			Thread.Sleep (2000);
 			var login = new Intent(this, typeof(SignIn));
 			StartActivity(login);
