@@ -16,13 +16,13 @@ public final class R {
         public static final int maxresdefault=0x7f020002;
     }
     public static final class id {
-        public static final int email=0x7f050003;
-        public static final int imageView1=0x7f050001;
-        public static final int myButton=0x7f050000;
-        public static final int password=0x7f050004;
-        public static final int phone=0x7f050005;
-        public static final int relativeLayout1=0x7f050002;
-        public static final int signin=0x7f050006;
+        public static final int button1=0x7f050000;
+        public static final int email=0x7f050002;
+        public static final int myButton=0x7f050006;
+        public static final int password=0x7f050003;
+        public static final int phone=0x7f050004;
+        public static final int relativeLayout1=0x7f050001;
+        public static final int signin=0x7f050005;
     }
     public static final class layout {
         public static final int admin_page=0x7f030000;

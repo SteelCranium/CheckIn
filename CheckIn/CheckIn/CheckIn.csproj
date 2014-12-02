@@ -50,6 +50,7 @@
     <Compile Include="StudentPage.cs" />
     <Compile Include="AdminPage.cs" />
     <Compile Include="SignIn.cs" />
+    <Compile Include="DetectATouch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
