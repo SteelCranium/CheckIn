@@ -14,7 +14,7 @@ using Android.Widget;
 namespace CheckIn
 {
 	[Activity (Label = "AdminPage")]			
-	public class AdminPage : Activity,View.IOnTouchListener
+	public class AdminPage : Activity
 	{
 		int count = 1;
 

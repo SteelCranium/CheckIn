@@ -19,22 +19,11 @@ namespace CheckIn
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
-			//Thread.Sleep (2000);
-			//var login = new Intent(this, typeof(SignIn));
-			//StartActivity(login);
-
-			Button button = FindViewById<Button> (Resource.Id.button1);
-
-
-			button.Click += delegate {
-				var admin = new Intent (this, typeof(AdminPage));
-				StartActivity (admin);
-			};
-				
-		
-			
+			Thread.Sleep (2000);
+			var login = new Intent(this, typeof(SignIn));
+			StartActivity(login);
+		}
 	}
-}
 }
 
 
