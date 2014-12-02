@@ -10,13 +10,14 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using System.Text.RegularExpressions;
 
 namespace CheckIn
 {
-	[Activity (Label = "SignIn")]			
+	[Activity (Label = "SignIn")]		
+
 	public class SignIn : Activity
 	{
-		int count = 0;
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
@@ -26,15 +27,36 @@ namespace CheckIn
 
 			// Set our view from the "main" layout resource
 
-
+			#region Fields
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.myButton);
+			TextView login = FindViewById<TextView> (Resource.Id.login);
+			Button button = FindViewById<Button> (Resource.Id.signin);
+			EditText email = FindViewById<EditText> (Resource.Id.email);
+			EditText password = FindViewById<EditText> (Resource.Id.password);
+			EditText phone = FindViewById<EditText> (Resource.Id.phone);
+
+			#endregion
 
 			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
+				//TODO- Code what the login button does
+				if(loginVerification(email, password, phone)) {
+					StartActivity(typeof(StudentPage));
+					Finish();
+				}
+				else {
+
+				}
+
+				// Create your application here
 			};
-			// Create your application here
+		}
+
+		public static bool loginVerification(EditText email, EditText password, EditText phone)
+		{
+			Regex reg = new Regex(@"^\S+@\S+\.\S+");
+
+			return (reg.IsMatch (email.Text) ? true : false);
 		}
 	}
 }
