@@ -16,7 +16,7 @@ namespace CheckIn
 	[Activity (Label = "AdminPage")]			
 	public class AdminPage : Activity
 	{
-
+		int count = 1;
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -30,7 +30,7 @@ namespace CheckIn
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 
 			button.Click += delegate {
-
+				button.Text = string.Format ("{0} clicks yo!", count++);
 			};
 		}
 	}

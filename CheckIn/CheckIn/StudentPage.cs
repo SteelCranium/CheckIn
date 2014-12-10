@@ -11,13 +11,12 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-
 namespace CheckIn
 {
 	[Activity (Label = "StudentPage")]			
 	public class StudentPage : Activity
 	{
-	
+		int count = 1;
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -33,7 +32,6 @@ namespace CheckIn
 			button.Click += delegate {
 				Finish();
 			};
-		
 		}
 	}
 }
