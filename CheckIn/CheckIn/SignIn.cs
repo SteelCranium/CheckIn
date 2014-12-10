@@ -37,11 +37,11 @@ namespace CheckIn
 
 			#endregion
 
-			TelephonyManager mTelephonyMgr;
+			/* TelephonyManager mTelephonyMgr;
 
 			mTelephonyMgr = (TelephonyManager)GetSystemService(TelephonyService);
 
-			phone = mTelephonyMgr.Line1Number;
+			phone = mTelephonyMgr.Line1Number; */
 
 			button.Click += delegate {
 				//TODO- Code what the login button does
