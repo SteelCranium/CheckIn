@@ -37,15 +37,15 @@ namespace CheckIn
 
 			#endregion
 
-			TelephonyManager mTelephonyMgr;
+			/* TelephonyManager mTelephonyMgr;
 
 			mTelephonyMgr = (TelephonyManager)GetSystemService(TelephonyService);
 
-			phone = mTelephonyMgr.Line1Number;
+			phone = mTelephonyMgr.Line1Number; */
 
 			button.Click += delegate {
 				//TODO- Code what the login button does
-				if(loginVerification(email, password, phone)) {
+				if(loginVerification(email, password)) {
 					StartActivity(typeof(StudentPage));
 					Finish();
 				}
@@ -57,7 +57,7 @@ namespace CheckIn
 			};
 		}
 
-		public static bool loginVerification(EditText email, EditText password, EditText phone)
+		public static bool loginVerification(EditText email, EditText password)
 		{
 			Regex reg = new Regex(@"^\S+@\S+\.\S+");
 

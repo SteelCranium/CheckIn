@@ -29,7 +29,6 @@ C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\valu
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_page.xml
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\student_page.xml
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\signin.xml
-C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\checkin_logo.png
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\maxresdefault.jpg
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\checkin_small.png
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
@@ -56,3 +55,5 @@ C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\valu
 C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\splash.png
 C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
 C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\uploadflags.txt
+C:\Users\ho302717\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.dll
+C:\Users\ho302717\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.pdb
