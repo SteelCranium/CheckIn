@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
-=======
-C:\Users\ho302717\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
->>>>>>> a3b3fb0078f373a45e485c79eaeee041610e01d2

@@ -31,6 +31,7 @@ namespace CheckIn
 			// Get our button from the layout resource,
 			// and attach an event to it
 			TextView login = FindViewById<TextView> (Resource.Id.login);
+			login.Text = "";
 			Button button = FindViewById<Button> (Resource.Id.signin);
 			EditText email = FindViewById<EditText> (Resource.Id.email);
 			EditText password = FindViewById<EditText> (Resource.Id.password);
@@ -50,7 +51,7 @@ namespace CheckIn
 					Finish();
 				}
 				else {
-
+					login.Text = "Invalid Login Information";
 				}
 
 				// Create your application here
@@ -59,9 +60,9 @@ namespace CheckIn
 
 		public static bool loginVerification(EditText email, EditText password)
 		{
-			Regex reg = new Regex(@"^\S+@\S+\.\S+");
-
-			return (reg.IsMatch (email.Text) ? true : false);
+			Regex loginreg = new Regex(@"^\S+@\S+\.\S+");
+			Regex passreg = new Regex (@"\S+");
+			return (loginreg.IsMatch (email.Text) && passreg.IsMatch(password.Text));
 
 		}
 
