@@ -56,3 +56,5 @@ C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\valu
 C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\splash.png
 C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
 C:\Users\Clayb275151\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\uploadflags.txt
+C:\Users\ho302717\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.dll
+C:\Users\ho302717\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.pdb
