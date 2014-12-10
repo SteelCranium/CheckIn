@@ -34,9 +34,14 @@ namespace CheckIn
 			Button button = FindViewById<Button> (Resource.Id.signin);
 			EditText email = FindViewById<EditText> (Resource.Id.email);
 			EditText password = FindViewById<EditText> (Resource.Id.password);
-			EditText phone = FindViewById<EditText> (Resource.Id.phone);
 
 			#endregion
+
+			TelephonyManager mTelephonyMgr;
+
+			mTelephonyMgr = (TelephonyManager)GetSystemService(TelephonyService);
+
+			phone = mTelephonyMgr.Line1Number;
 
 			button.Click += delegate {
 				//TODO- Code what the login button does
@@ -57,7 +62,10 @@ namespace CheckIn
 			Regex reg = new Regex(@"^\S+@\S+\.\S+");
 
 			return (reg.IsMatch (email.Text) ? true : false);
+
 		}
+
+
 	}
 }
 
