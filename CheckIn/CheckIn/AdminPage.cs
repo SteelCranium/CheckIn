@@ -27,8 +27,6 @@ namespace CheckIn
 			// Get our button from the layout resource,
 			// and attach an event to it
 
-
-		
 		}
 	}
 }
