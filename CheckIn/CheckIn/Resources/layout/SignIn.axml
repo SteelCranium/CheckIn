@@ -30,25 +30,15 @@
             android:layout_marginTop="25dp"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp" />
-        <EditText
-            android:inputType="phone"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/password"
-            android:id="@+id/phone"
-            android:hint="Phone #"
-            android:layout_marginTop="25dp"
-            android:layout_marginRight="25dp"
-            android:layout_marginLeft="25dp" />
         <Button
             android:text="Sign In"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/phone"
             android:id="@+id/signin"
             android:layout_marginRight="50dp"
             android:layout_marginLeft="50dp"
-            android:layout_marginTop="25dp" />
+            android:layout_marginTop="137.9dp"
+            android:layout_marginBottom="0.0dp" />
         <TextView
             android:text="Invalid Login Information"
             android:textAppearance="?android:attr/textAppearanceSmall"
