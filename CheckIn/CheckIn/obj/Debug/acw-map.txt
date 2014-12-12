@@ -2,3 +2,5 @@ CheckIn.StudentPage;checkin.StudentPage
 CheckIn.AdminPage;checkin.AdminPage
 CheckIn.SignIn;checkin.SignIn
 CheckIn.SplashScreen;checkin.SplashScreen
+CheckIn.AdminManage;checkin.AdminManage
+CheckIn.AdminCreate;checkin.AdminCreate

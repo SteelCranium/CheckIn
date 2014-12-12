@@ -13,8 +13,8 @@ using Android.Widget;
 
 namespace CheckIn
 {
-	[Activity (Label = "AdminPage")]			
-	public class AdminPage : Activity
+	[Activity (Label = "AdminManage")]			
+	public class AdminManage : Activity
 	{
 		int count = 1;
 
@@ -23,20 +23,13 @@ namespace CheckIn
 			base.OnCreate (bundle);
 
 			// Set our view from the "main" layout resource
-			SetContentView (Resource.Layout.Admin_Page);
+			SetContentView (Resource.Layout.Admin_Manage);
 
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button existing = FindViewById<Button> (Resource.Id.myButton);
-			Button createnew = FindViewById<Button> (Resource.Id.Button1);
+			Button button = FindViewById<Button> (Resource.Id.myButton);
 
-			existing.Click += delegate {
-				StartActivity(typeof(AdminManage));
-				Finish();
-			};
-
-			createnew.Click += delegate {
-				StartActivity(typeof(AdminCreate));
+			button.Click += delegate {
 				Finish();
 			};
 		}
