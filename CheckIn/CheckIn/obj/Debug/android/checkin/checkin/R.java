@@ -24,6 +24,7 @@ public final class R {
         public static final int phone=0x7f060005;
         public static final int relativeLayout1=0x7f060002;
         public static final int signin=0x7f060006;
+        public static final int text=0x7f060008;
     }
     public static final class layout {
         public static final int admin_page=0x7f030000;

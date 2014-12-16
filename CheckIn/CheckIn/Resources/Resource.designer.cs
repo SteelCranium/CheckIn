@@ -90,6 +90,9 @@ namespace CheckIn
 			// aapt resource value: 0x7f060006
 			public const int signin = 2131099654;
 			
+			// aapt resource value: 0x7f060008
+			public const int text = 2131099656;
+			
 			static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
