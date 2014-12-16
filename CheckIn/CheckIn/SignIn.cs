@@ -36,11 +36,7 @@ namespace CheckIn
 
 			#endregion
 
-			/* TelephonyManager mTelephonyMgr;
 
-			mTelephonyMgr = (TelephonyManager)GetSystemService(TelephonyService);
-
-			phone = mTelephonyMgr.Line1Number; */
 
 			button.Click += delegate {
 				//TODO- Code what the login button does
@@ -52,7 +48,7 @@ namespace CheckIn
 
 				}
 
-				// Create your application here
+
 			};
 		}
 
