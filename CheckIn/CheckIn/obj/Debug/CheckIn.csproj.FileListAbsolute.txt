@@ -59,7 +59,32 @@ U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\values\styles.xml
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\splash.png
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_create.xml
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_manage.xml
+<<<<<<< HEAD
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.csprojResolveAssemblyReference.cache
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\LibCurlNet.dll
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_create.xml
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_manage.xml
+=======
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.pdb
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll.mdb
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.CheckIn.apk
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.CheckIn-Signed.apk
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.dll
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.pdb
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\android\bin\CheckIn.CheckIn.apk
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\main.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\values\strings.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_page.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\student_page.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\signin.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\maxresdefault.jpg
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\checkin_small.png
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\values\styles.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\splash.png
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_create.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_manage.xml
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\R.cs.flag
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\uploadflags.txt
+C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\signup.xml
+>>>>>>> 5d486952a616eac9a8eac2adb07451662ddbfa64
