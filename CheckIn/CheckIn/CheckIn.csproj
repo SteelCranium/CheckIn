@@ -70,6 +70,7 @@
     <AndroidResource Include="Resources\drawable\splash.png" />
     <AndroidResource Include="Resources\layout\Admin_Create.axml" />
     <AndroidResource Include="Resources\layout\Admin_Manage.axml" />
+    <AndroidResource Include="Resources\layout\SignUp.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

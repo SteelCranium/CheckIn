@@ -72,11 +72,23 @@ namespace CheckIn
 			// aapt resource value: 0x7f060004
 			public const int email = 2131099652;
 			
+			// aapt resource value: 0x7f06000c
+			public const int emailsu = 2131099660;
+			
+			// aapt resource value: 0x7f06000d
+			public const int emailveri = 2131099661;
+			
+			// aapt resource value: 0x7f06000b
+			public const int firstname = 2131099659;
+			
 			// aapt resource value: 0x7f060002
 			public const int imageView1 = 2131099650;
 			
-			// aapt resource value: 0x7f060008
-			public const int login = 2131099656;
+			// aapt resource value: 0x7f06000a
+			public const int lastname = 2131099658;
+			
+			// aapt resource value: 0x7f060007
+			public const int login = 2131099655;
 			
 			// aapt resource value: 0x7f060000
 			public const int myButton = 2131099648;
@@ -84,14 +96,29 @@ namespace CheckIn
 			// aapt resource value: 0x7f060005
 			public const int password = 2131099653;
 			
-			// aapt resource value: 0x7f060006
-			public const int phone = 2131099654;
+			// aapt resource value: 0x7f06000e
+			public const int passwordsu = 2131099662;
+			
+			// aapt resource value: 0x7f06000f
+			public const int passwordveri = 2131099663;
+			
+			// aapt resource value: 0x7f060010
+			public const int phonenum = 2131099664;
 			
 			// aapt resource value: 0x7f060003
 			public const int relativeLayout1 = 2131099651;
 			
-			// aapt resource value: 0x7f060007
-			public const int signin = 2131099655;
+			// aapt resource value: 0x7f060006
+			public const int signin = 2131099654;
+			
+			// aapt resource value: 0x7f060011
+			public const int signup = 2131099665;
+			
+			// aapt resource value: 0x7f060009
+			public const int signup1 = 2131099657;
+			
+			// aapt resource value: 0x7f060008
+			public const int textView1 = 2131099656;
 			
 			static Id()
 			{
@@ -122,7 +149,10 @@ namespace CheckIn
 			public const int SignIn = 2130903044;
 			
 			// aapt resource value: 0x7f030005
-			public const int Student_Page = 2130903045;
+			public const int SignUp = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int Student_Page = 2130903046;
 			
 			static Layout()
 			{
