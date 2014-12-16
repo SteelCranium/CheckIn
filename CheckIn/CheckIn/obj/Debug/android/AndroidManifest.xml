@@ -5,12 +5,9 @@
     <activity android:label="StudentPage" android:name="checkin.StudentPage" />
     <activity android:label="AdminPage" android:name="checkin.AdminPage" />
     <activity android:label="SignIn" android:name="checkin.SignIn" />
-    <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="checkin.SplashScreen">
-      <intent-filter>
-        <action android:name="android.intent.action.MAIN" />
-        <category android:name="android.intent.category.LAUNCHER" />
-      </intent-filter>
-    </activity>
+    <activity android:noHistory="true" android:theme="@style/Theme.Splash" android:name="checkin.SplashScreen" />
+    <activity android:label="AdminManage" android:name="checkin.AdminManage" />
+    <activity android:label="AdminCreate" android:name="checkin.AdminCreate" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="CheckIn.CheckIn.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
@@ -18,6 +15,12 @@
         <category android:name="mono.android.intent.category.SEPPUKU.CheckIn.CheckIn" />
       </intent-filter>
     </receiver>
+    <activity android:noHistory="true" android:theme="@style/Mono.Android.Theme.Splash" android:name="checkin.checkin.TrialSplashScreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
   </application>
   <uses-permission android:name="android.permission.CALL_PHONE" />
   <uses-permission android:name="android.permission.VIBRATE" />

@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Net;
-using LibCurlNet;
+using SeasideResearch.LibCurlNet;
+
 
 using Android.App;
 using Android.Content;
@@ -40,11 +41,7 @@ namespace CheckIn
 
 			#endregion
 
-			/* TelephonyManager mTelephonyMgr;
 
-			mTelephonyMgr = (TelephonyManager)GetSystemService(TelephonyService);
-
-			phone = mTelephonyMgr.Line1Number; */
 
 			button.Click += delegate {
 				//TODO- Code what the login button does
@@ -56,7 +53,7 @@ namespace CheckIn
 					login.Text = "Invalid Login Information";
 				}
 
-				// Create your application here
+
 			};
 		}
 

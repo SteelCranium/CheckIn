@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -24,6 +23,7 @@ namespace CheckIn
 			LocationManager stuLoc;
 
 			SetContentView (Resource.Layout.Student_Page);
+
 
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			TextView textLocation = FindViewById<TextView> (Resource.Id.text);

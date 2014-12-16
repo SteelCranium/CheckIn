@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Mono.Android" />
+    <Reference Include="LibCurlNet">
+      <HintPath>..\..\..\..\..\Desktop\libcurl\bin\LibCurlNet.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Resources\Resource.designer.cs" />
@@ -52,6 +55,8 @@
     <Compile Include="AdminPage.cs" />
     <Compile Include="SignIn.cs" />
     <Compile Include="SplashScreen.cs" />
+    <Compile Include="AdminManage.cs" />
+    <Compile Include="AdminCreate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -68,6 +73,8 @@
     <AndroidResource Include="Resources\drawable\checkIn_small.png" />
     <AndroidResource Include="Resources\values\Styles.xml" />
     <AndroidResource Include="Resources\drawable\splash.png" />
+    <AndroidResource Include="Resources\layout\Admin_Create.axml" />
+    <AndroidResource Include="Resources\layout\Admin_Manage.axml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>

@@ -1,1 +1,2 @@
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
+C:\Users\mahmo266317\Desktop\libcurl\bin\LibCurlNet.dll

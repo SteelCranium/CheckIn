@@ -51,7 +51,10 @@ namespace CheckIn
 			public const int maxresdefault = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int splash = 2130837506;
+			public const int monoandroidsplash = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int splash = 2130837507;
 			
 			static Drawable()
 			{
@@ -66,11 +69,14 @@ namespace CheckIn
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060003
-			public const int email = 2131099651;
-			
 			// aapt resource value: 0x7f060001
-			public const int imageView1 = 2131099649;
+			public const int Button1 = 2131099649;
+			
+			// aapt resource value: 0x7f060004
+			public const int email = 2131099652;
+			
+			// aapt resource value: 0x7f060002
+			public const int imageView1 = 2131099650;
 			
 			// aapt resource value: 0x7f060007
 			public const int login = 2131099655;
@@ -78,14 +84,11 @@ namespace CheckIn
 			// aapt resource value: 0x7f060000
 			public const int myButton = 2131099648;
 			
-			// aapt resource value: 0x7f060004
-			public const int password = 2131099652;
-			
 			// aapt resource value: 0x7f060005
-			public const int phone = 2131099653;
+			public const int password = 2131099653;
 			
-			// aapt resource value: 0x7f060002
-			public const int relativeLayout1 = 2131099650;
+			// aapt resource value: 0x7f060003
+			public const int relativeLayout1 = 2131099651;
 			
 			// aapt resource value: 0x7f060006
 			public const int signin = 2131099654;
@@ -107,16 +110,22 @@ namespace CheckIn
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Admin_Page = 2130903040;
+			public const int Admin_Create = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int Admin_Manage = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int SignIn = 2130903042;
+			public const int Admin_Page = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Student_Page = 2130903043;
+			public const int Main = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int SignIn = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int Student_Page = 2130903045;
 			
 			static Layout()
 			{
@@ -149,6 +158,9 @@ namespace CheckIn
 		
 		public partial class Style
 		{
+			
+			// aapt resource value: 0x7f050001
+			public const int Mono_Android_Theme_Splash = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int Theme_Splash = 2131034112;
