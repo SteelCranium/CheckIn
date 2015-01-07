@@ -60,7 +60,6 @@ U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\drawable\splash.png
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_create.xml
 U:\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_manage.xml
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\CheckIn.csprojResolveAssemblyReference.cache
-C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\LibCurlNet.dll
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_create.xml
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\obj\Debug\res\layout\admin_manage.xml
 C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll

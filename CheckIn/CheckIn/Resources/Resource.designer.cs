@@ -51,10 +51,7 @@ namespace CheckIn
 			public const int maxresdefault = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int monoandroidsplash = 2130837506;
-			
-			// aapt resource value: 0x7f020003
-			public const int splash = 2130837507;
+			public const int splash = 2130837506;
 			
 			static Drawable()
 			{
@@ -191,9 +188,6 @@ namespace CheckIn
 		
 		public partial class Style
 		{
-			
-			// aapt resource value: 0x7f050001
-			public const int Mono_Android_Theme_Splash = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int Theme_Splash = 2131034112;

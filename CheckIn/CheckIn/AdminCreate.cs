@@ -16,7 +16,6 @@ namespace CheckIn
 	[Activity (Label = "AdminCreate")]			
 	public class AdminCreate : Activity
 	{
-		int count = 1;
 
 		protected override void OnCreate (Bundle bundle)
 		{
