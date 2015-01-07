@@ -4,8 +4,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Net;
-using SeasideResearch.LibCurlNet;
-
 
 using Android.App;
 using Android.Content;

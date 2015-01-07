@@ -23,14 +23,6 @@ public final class R {
         public static final int emailveri=0x7f06000d;
         public static final int firstname=0x7f06000b;
         public static final int imageView1=0x7f060002;
-<<<<<<< HEAD
-        public static final int login=0x7f060007;
-        public static final int myButton=0x7f060000;
-        public static final int password=0x7f060005;
-        public static final int relativeLayout1=0x7f060003;
-        public static final int signin=0x7f060006;
-        public static final int text=0x7f060008;
-=======
         public static final int lastname=0x7f06000a;
         public static final int login=0x7f060007;
         public static final int myButton=0x7f060000;
@@ -42,8 +34,8 @@ public final class R {
         public static final int signin=0x7f060006;
         public static final int signup=0x7f060011;
         public static final int signup1=0x7f060009;
+        public static final int text=0x7f060012;
         public static final int textView1=0x7f060008;
->>>>>>> 5d486952a616eac9a8eac2adb07451662ddbfa64
     }
     public static final class layout {
         public static final int admin_create=0x7f030000;

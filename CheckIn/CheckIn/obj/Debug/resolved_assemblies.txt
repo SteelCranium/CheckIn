@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
 C:\Users\mahmo266317\Desktop\libcurl\bin\LibCurlNet.dll
-=======
-C:\Users\ho302717\Desktop\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
->>>>>>> 5d486952a616eac9a8eac2adb07451662ddbfa64
