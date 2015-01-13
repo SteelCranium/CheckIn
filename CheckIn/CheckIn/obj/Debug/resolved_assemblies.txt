@@ -1,1 +1,2 @@
 C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\bin\Debug\CheckIn.dll
+C:\Users\mahmo266317\Documents\GitHub\CheckIn\CheckIn\CheckIn\Components\json.net-4.5.11.1\lib\android\Newtonsoft.Json.dll

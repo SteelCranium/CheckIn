@@ -26,6 +26,7 @@ namespace CheckIn
 
 
 			Button button = FindViewById<Button> (Resource.Id.myButton);
+			Button refres = FindViewById<Button> (Resource.Id.Button1);
 			TextView textLocation = FindViewById<TextView> (Resource.Id.text);
 
 			#region Location Services
@@ -39,10 +40,6 @@ namespace CheckIn
 				Location loc = stuLoc.GetLastKnownLocation(Provider);
 				textLocation.Text = "Latitude:" + loc.Latitude + "\nLongitude:" + loc.Longitude + "";
 			} 
-			else 
-			{
-
-			}
 
 
 
@@ -51,6 +48,16 @@ namespace CheckIn
 			button.Click += delegate {
 				Finish();
 			};
+
+			//refres.Click += delegate {
+			//	textLocation.Text = refresh(stuLoc, Provider);
+			//};
+		}
+
+		public string refresh(LocationManager stuLoc, string Provider)
+		{
+			Location loc = stuLoc.GetLastKnownLocation(Provider);
+			return "Latitude:" + loc.Latitude + "\nLongitude:" + loc.Longitude + "";
 		}
 
 		public void OnProviderEnabled (string provider)

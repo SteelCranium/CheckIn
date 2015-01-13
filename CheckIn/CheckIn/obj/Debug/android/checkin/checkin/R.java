@@ -17,6 +17,7 @@ public final class R {
     }
     public static final class id {
         public static final int Button1=0x7f060001;
+        public static final int button1=0x7f060012;
         public static final int email=0x7f060004;
         public static final int emailsu=0x7f06000c;
         public static final int emailveri=0x7f06000d;
@@ -33,7 +34,7 @@ public final class R {
         public static final int signin=0x7f060006;
         public static final int signup=0x7f060011;
         public static final int signup1=0x7f060009;
-        public static final int text=0x7f060012;
+        public static final int text=0x7f060013;
         public static final int textView1=0x7f060008;
     }
     public static final class layout {

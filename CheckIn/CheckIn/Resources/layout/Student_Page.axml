@@ -10,6 +10,11 @@
         android:text="Sign out."
         android:editable="false"
         android:textIsSelectable="false" />
+    <Button
+        android:text="Refresh Location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1" />
     <TextView
         android:text="Text"
         android:layout_width="match_parent"

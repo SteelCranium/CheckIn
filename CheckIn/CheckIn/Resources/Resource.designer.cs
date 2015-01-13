@@ -69,6 +69,9 @@ namespace CheckIn
 			// aapt resource value: 0x7f060001
 			public const int Button1 = 2131099649;
 			
+			// aapt resource value: 0x7f060012
+			public const int button1 = 2131099666;
+			
 			// aapt resource value: 0x7f060004
 			public const int email = 2131099652;
 			
@@ -117,8 +120,8 @@ namespace CheckIn
 			// aapt resource value: 0x7f060009
 			public const int signup1 = 2131099657;
 			
-			// aapt resource value: 0x7f060012
-			public const int text = 2131099666;
+			// aapt resource value: 0x7f060013
+			public const int text = 2131099667;
 			
 			// aapt resource value: 0x7f060008
 			public const int textView1 = 2131099656;
